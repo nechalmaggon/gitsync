@@ -1,9 +1,9 @@
 {
   "ebe38161-f5e3-4437-9b3f-d718e5c97858": {
-    "gitAppName": "git sync test",
-    "lastCommitMessage": "progress",
+    "gitAppName": "git sync test 1",
+    "lastCommitMessage": "App git sync test  is renamed to git sync test",
     "gitVersionId": "4669e398-049a-4ce7-9787-5b5b00ec74d1",
-    "lastpushDate": "2024-11-16T10:47:12.640Z",
+    "lastpushDate": "2024-11-16T10:48:51.257Z",
     "gitVersionName": "v1",
     "lastCommitUser": "nechal maggon"
   }

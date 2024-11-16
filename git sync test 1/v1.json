@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "ebe38161-f5e3-4437-9b3f-d718e5c97858",
-          "name": "git sync test",
+          "name": "git sync test 1",
           "slug": "ebe38161-f5e3-4437-9b3f-d718e5c97858",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2024-11-16T10:42:18.557Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2024-11-16T10:42:18.557Z",
+          "updatedAt": "2024-11-16T10:48:50.661Z",
           "editingVersion": {
             "id": "4669e398-049a-4ce7-9787-5b5b00ec74d1",
             "name": "v1",
