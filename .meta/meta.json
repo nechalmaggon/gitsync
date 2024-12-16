@@ -14,5 +14,13 @@
     "lastpushDate": "2024-11-19T07:50:29.417Z",
     "gitVersionName": "v2",
     "lastCommitUser": "nechal maggon"
+  },
+  "9f0d22cf-293f-45d7-bd69-fe50fd5dbf35": {
+    "gitAppName": "Release Notes",
+    "lastCommitMessage": "release notes old app",
+    "gitVersionId": "2cd0e330-6dd4-475b-a7d0-fcd7f8f85f6a",
+    "lastpushDate": "2024-12-16T08:30:09.086Z",
+    "gitVersionName": "v8",
+    "lastCommitUser": "nechal maggon"
   }
 }
