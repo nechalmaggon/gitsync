@@ -25,10 +25,10 @@
   },
   "97732967-5fd6-4f9b-be49-c169d263c135": {
     "gitAppName": "Product Release Notes",
-    "lastCommitMessage": "Release notes app",
-    "gitVersionId": "999db66a-ac7c-463d-bff6-d4ec98e0ada2",
-    "lastpushDate": "2024-12-16T09:29:36.480Z",
-    "gitVersionName": "v12",
+    "lastCommitMessage": "release notes app",
+    "gitVersionId": "d5bbd858-0981-4281-9199-0a2937e76bd4",
+    "lastpushDate": "2024-12-17T03:23:26.954Z",
+    "gitVersionName": "v16",
     "lastCommitUser": "nechal maggon"
   }
 }
