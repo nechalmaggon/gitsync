@@ -40,10 +40,10 @@
     "lastCommitUser": "nechal maggon"
   },
   "a072827f-79eb-4496-b4dc-b4505438a13b": {
-    "gitAppName": "License overview",
-    "lastCommitMessage": "App Self-hosted payment portal is renamed to License overview",
+    "gitAppName": "Self-hosted payment portal",
+    "lastCommitMessage": "App License overview is renamed to Self-hosted payment portal",
     "gitVersionId": "efccc672-eeab-408b-b86d-bae12c1407bc",
-    "lastpushDate": "2025-09-08T09:26:10.775Z",
+    "lastpushDate": "2025-09-08T09:27:23.724Z",
     "gitVersionName": "v1",
     "lastCommitUser": "nechal maggon"
   }
