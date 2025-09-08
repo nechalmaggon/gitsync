@@ -5,7 +5,7 @@
         "appV2": {
           "id": "a072827f-79eb-4496-b4dc-b4505438a13b",
           "type": "front-end",
-          "name": "Self-hosted payment portal",
+          "name": "License overview",
           "slug": "a072827f-79eb-4496-b4dc-b4505438a13b",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -21,7 +21,7 @@
           "aiGenerationMetadata": null,
           "createdAt": "2025-09-08T09:22:32.075Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-09-08T09:22:32.076Z",
+          "updatedAt": "2025-09-08T09:26:09.807Z",
           "editingVersion": {
             "id": "efccc672-eeab-408b-b86d-bae12c1407bc",
             "name": "v1",
