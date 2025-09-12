@@ -2109,6 +2109,85 @@
                 },
                 "disabledState": {
                   "value": "{{false}}"
+                },
+                "dynamicHeight": {
+                  "value": "{{false}}"
+                },
+                "tabItems": {
+                  "value": [
+                    {
+                      "id": "t0",
+                      "title": "Tab 1",
+                      "icon": {
+                        "value": "IconHome2"
+                      },
+                      "iconVisibility": {
+                        "value": false
+                      },
+                      "loading": {
+                        "value": false
+                      },
+                      "disable": {
+                        "value": false
+                      },
+                      "visible": {
+                        "value": true
+                      },
+                      "fieldBackgroundColor": {
+                        "value": "var(--cc-surface1-surface)"
+                      }
+                    },
+                    {
+                      "id": "t1",
+                      "title": "Tab 2",
+                      "icon": {
+                        "value": "IconHome2"
+                      },
+                      "iconVisibility": {
+                        "value": false
+                      },
+                      "loading": {
+                        "value": false
+                      },
+                      "disable": {
+                        "value": false
+                      },
+                      "visible": {
+                        "value": true
+                      },
+                      "fieldBackgroundColor": {
+                        "value": "var(--cc-surface1-surface)"
+                      }
+                    },
+                    {
+                      "id": "t2",
+                      "title": "Tab 3",
+                      "icon": {
+                        "value": "IconHome2"
+                      },
+                      "iconVisibility": {
+                        "value": false
+                      },
+                      "loading": {
+                        "value": false
+                      },
+                      "disable": {
+                        "value": false
+                      },
+                      "visible": {
+                        "value": true
+                      },
+                      "fieldBackgroundColor": {
+                        "value": "var(--cc-surface1-surface)"
+                      }
+                    }
+                  ]
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "tooltip": {
+                  "value": ""
                 }
               },
               "general": {},
@@ -2124,9 +2203,46 @@
                 },
                 "accent": {
                   "value": "#375FCF"
+                },
+                "headerBackground": {
+                  "value": "var(--cc-surface1-surface)"
+                },
+                "divider": {
+                  "value": "var(--cc-default-border)"
+                },
+                "unselectedText": {
+                  "value": "var(--cc-placeholder-text)"
+                },
+                "highlightColor": {
+                  "value": "var(--cc-primary-brand)"
+                },
+                "hoverBackground": {
+                  "value": "#1B1F24"
+                },
+                "unselectedIcon": {
+                  "value": "var(--cc-default-icon)"
+                },
+                "selectedIcon": {
+                  "value": "var(--cc-default-icon)"
+                },
+                "transition": {
+                  "value": "slide"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "border": {
+                  "value": "var(--cc-default-border)"
+                },
+                "padding": {
+                  "value": "default"
                 }
               },
-              "generalStyles": {},
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
               "displayPreferences": {
                 "showOnDesktop": {
                   "value": "{{true}}"
@@ -2137,7 +2253,7 @@
               },
               "validation": {},
               "createdAt": "2025-09-12T15:02:44.268Z",
-              "updatedAt": "2025-09-12T15:02:44.268Z",
+              "updatedAt": "2025-09-12T15:02:56.389Z",
               "layouts": [
                 {
                   "id": "be177176-9dc6-49db-8bf9-1f0d2475afef",
