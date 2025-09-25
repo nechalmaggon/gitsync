@@ -54,5 +54,13 @@
     "lastpushDate": "2025-09-22T12:27:43.012Z",
     "gitVersionName": "v1",
     "lastCommitUser": "nechal maggon"
+  },
+  "952b68fc-3c7f-4048-8f49-85e7276bc430": {
+    "gitAppName": "TEST_AI credits_Self-hosted payment portal",
+    "lastCommitMessage": "App TEST_AI credits_Self-hosted payment portal created",
+    "gitVersionId": "857bfd7f-2e3b-4125-8ab3-4958ab8a9ee2",
+    "lastpushDate": "2025-09-25T05:13:23.415Z",
+    "gitVersionName": "v4",
+    "lastCommitUser": "nechal maggon"
   }
 }
