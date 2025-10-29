@@ -70,5 +70,13 @@
     "lastpushDate": "2025-10-09T12:48:56.298Z",
     "gitVersionName": "v1",
     "lastCommitUser": "nechal maggon"
+  },
+  "5c7bb76d-2135-41e1-9325-2cb92075eba5": {
+    "gitAppName": "Retool to ToolJet_v2",
+    "lastCommitMessage": "App Retool to ToolJet_v2 created",
+    "gitVersionId": "83358900-a10a-4f78-bcf0-629b188f0449",
+    "lastpushDate": "2025-10-29T12:43:04.240Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "nechal maggon"
   }
 }
