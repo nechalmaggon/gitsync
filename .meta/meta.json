@@ -78,5 +78,13 @@
     "lastpushDate": "2025-11-09T18:00:38.896Z",
     "gitVersionName": "v1",
     "lastCommitUser": "nechal maggon"
+  },
+  "c1ec8a6c-ee9a-4a7d-ba9b-3590bbeaf6b9": {
+    "gitAppName": "AI credits_Self-hosted payment portal",
+    "lastCommitMessage": "Version v6 - AI key Created of app AI credits_Self-hosted payment portal",
+    "gitVersionId": "0ebb4b51-ef7e-4c22-b051-66f4883a6c6f",
+    "lastpushDate": "2025-12-01T11:09:59.750Z",
+    "gitVersionName": "v6 - AI key",
+    "lastCommitUser": "nechal maggon"
   }
 }
