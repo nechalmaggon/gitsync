@@ -8,6 +8,7 @@
       "host": "20.118.226.42",
       "port": "5432",
       "database": "netflix",
+      "password": "{{secrets.pgsql_password}}",
       "ssh_port": 22,
       "username": "kartik",
       "ssh_enabled": "disabled",
