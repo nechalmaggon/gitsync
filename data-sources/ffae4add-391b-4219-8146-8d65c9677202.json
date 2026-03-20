@@ -1,0 +1,43 @@
+{
+  "id": "ffae4add-391b-4219-8146-8d65c9677202",
+  "name": "netflix",
+  "kind": "postgresql",
+  "type": "default",
+  "options": {
+    "development": {
+      "host": "20.118.226.42",
+      "port": "5432",
+      "database": "netflix",
+      "ssh_port": 22,
+      "username": "kartik",
+      "ssh_enabled": "disabled",
+      "ssl_enabled": false,
+      "ssh_auth_type": "private_key",
+      "connection_type": "manual",
+      "ssl_certificate": "none",
+      "allow_dynamic_connection_parameters": false
+    },
+    "production": {
+      "host": "localhost",
+      "port": 5432,
+      "ssh_port": 22,
+      "ssh_enabled": "disabled",
+      "ssl_enabled": true,
+      "ssh_auth_type": "private_key",
+      "connection_type": "manual",
+      "ssl_certificate": "none",
+      "allow_dynamic_connection_parameters": false
+    },
+    "staging": {
+      "host": "localhost",
+      "port": 5432,
+      "ssh_port": 22,
+      "ssh_enabled": "disabled",
+      "ssl_enabled": true,
+      "ssh_auth_type": "private_key",
+      "connection_type": "manual",
+      "ssl_certificate": "none",
+      "allow_dynamic_connection_parameters": false
+    }
+  }
+}
