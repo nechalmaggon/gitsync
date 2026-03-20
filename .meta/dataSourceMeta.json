@@ -1,0 +1,9 @@
+{
+  "ffae4add-391b-4219-8146-8d65c9677202": {
+    "name": "netflix",
+    "kind": "postgresql",
+    "updatedAt": "2026-03-20T07:20:56.610Z",
+    "contentHash": "2c22e5fc6cd43b3520fcd1d22309153326d41c6553f6cc9a6b300113add7e178"
+  },
+  "lastUpdatedAt": "2026-03-20T07:20:56.610Z"
+}
